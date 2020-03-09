@@ -15,4 +15,4 @@
 		objects/SAAM
 			e3.txt.bz2
 
-More information about Open Access at the Smithsonian as well as documentation on metadata schemas can be found at https://si.edu/openaccess
+More information about Open Access at the Smithsonian as well as documentation on metadata schemas can be found at https://si.edu/openaccess and http://edan.si.edu/openaccess/docs/
