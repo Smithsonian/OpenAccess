@@ -2,7 +2,7 @@
 ### Smithsonian Open Access Metadata Repository (GitHub)
 
 - Over 11 million metadata records from the Smithsonian Institution
-- Files are serialized in json and compressed into bzip2 format
+- Files are serialized as [line-delimited JSON](https://en.wikipedia.org/wiki/JSON_streaming#Line-delimited_JSON) and compressed into bzip2 format
 - Directories are organized by owning unit and files are distributed by first two characters of content serialization hash.
 
 ------------
