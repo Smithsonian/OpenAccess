@@ -62,4 +62,4 @@ SIL | Smithsonian Libraries
 
 More information about Open Access at the Smithsonian as well as documentation
 on metadata schemas can be found at <https://www.si.edu/openaccess> and
-<https://edan.si.edu/openaccess/docs/>
+<https://edan.si.edu/openaccess/docs/>.
