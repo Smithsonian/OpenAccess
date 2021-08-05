@@ -2,6 +2,11 @@
 
 ## Smithsonian Open Access Metadata Repository (GitHub)
 
+
+-!! Maintenance Note.. We are transitioning away from GitHub for our compressed archive.. 
+ All resouces will be transitioned to S3 by Spetember 1st, 2021... Please revisit us then
+ to receive updates on how to pull new resources..
+
 - Over 11 million metadata records from the Smithsonian Institution.
 - Files are serialized as [line-delimited
   JSON](https://en.wikipedia.org/wiki/JSON_streaming#Line-delimited_JSON) and
