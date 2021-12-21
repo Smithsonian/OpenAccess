@@ -6,6 +6,10 @@
 -!! Maintenance Note.. We are transitioning away from GitHub for our compressed archive.. 
  All resouces will be transitioned to S3 by September 1st, 2021... Please revisit us then
  to receive updates on how to pull new resources..
+-!! Update 12-21-21
+ Registry of Open Data on AWS (https://registry.opendata.aws/smithsonian-open-access/)
+ Repository is divided into unit bucket
+ Directory listings can be found at (https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/index.txt)
 
 - Over 11 million metadata records from the Smithsonian Institution.
 - Files are serialized as [line-delimited
