@@ -1,34 +1,21 @@
+
 # OpenAccess
 
 ## Smithsonian Open Access Metadata Repository (GitHub)
 
 
--!! Maintenance Note.. We are transitioning away from GitHub for our compressed archive.. 
- All resouces will be transitioned to S3 by September 1st, 2021... Please revisit us then
- to receive updates on how to pull new resources..
--!! Update 12-21-21
+-!! Maintenance Note.. We have transitioned away from GitHub for our compressed archive.. 
+ 
+- Update 12-21-21
  Registry of Open Data on AWS (https://registry.opendata.aws/smithsonian-open-access/)
- Repository is divided into unit bucket
+ Repository is divided into unit buckets.
  Directory listings can be found at (https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/index.txt)
 
 - Over 11 million metadata records from the Smithsonian Institution.
 - Files are serialized as [line-delimited
   JSON](https://en.wikipedia.org/wiki/JSON_streaming#Line-delimited_JSON) and
-  compressed with [bzip2](https://en.wikipedia.org/wiki/Bzip2).
 - Directories are organized by owning unit and files are distributed by first
   two characters of content serialization hash.
-
----
-
-```
-metadata
-        objects/ACM
-                00.txt.bz2
-                ...
-                0a.txt.bz2
-        objects/SAAM
-                e3.txt.bz2
-```
 
 Owning units are internal Smithsonian acronyms.
 
